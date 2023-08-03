@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import { cores } from '../../style'
 
 export const Vagas = styled.ul`
   display: grid;
