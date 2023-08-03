@@ -26,3 +26,8 @@ export const Container = styled.div`
   width: 100%;
   margin: 0 auto;
 `
+
+export const cores = {
+  corPrincipal: '#a7727d',
+  corSecundaria: '#f9f5e7'
+}
